@@ -1,3 +1,3 @@
 <?php
 
-echo 'Contact form';
+echo 'Contact form a better form';
